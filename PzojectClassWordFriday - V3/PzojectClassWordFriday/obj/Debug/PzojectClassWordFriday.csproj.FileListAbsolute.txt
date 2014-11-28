@@ -1,0 +1,174 @@
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\PzojectClassWordFriday.dll.config
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\PzojectClassWordFriday.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\PzojectClassWordFriday.pdb
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Antlr3.Runtime.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\EntityFramework.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\EntityFramework.SqlServer.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.Owin.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.Owin.Security.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Newtonsoft.Json.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Owin.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\System.Web.Helpers.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\System.Web.Mvc.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\System.Web.Optimization.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\System.Web.Razor.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\System.Web.WebPages.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\WebGrease.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\System.Web.Helpers.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\System.Web.Mvc.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\System.Web.Optimization.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\System.Web.Razor.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\System.Web.WebPages.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Newtonsoft.Json.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Antlr3.Runtime.pdb
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\EntityFramework.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\EntityFramework.SqlServer.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.Owin.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.Owin.Security.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\obj\Debug\PzojectClassWordFriday.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\obj\Debug\PzojectClassWordFriday.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\obj\Debug\PzojectClassWordFriday.pdb
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\obj\Debug\PzojectClassWordFriday.Migrations.Initiation.resources
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\obj\Debug\PzojectClassWordFriday.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday\PzojectClassWordFriday\obj\Debug\PzojectClassWordFriday.Migrations.version2.resources
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\PzojectClassWordFriday.dll.config
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\PzojectClassWordFriday.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\PzojectClassWordFriday.pdb
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Antlr3.Runtime.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\EntityFramework.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\EntityFramework.SqlServer.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.Owin.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.Owin.Security.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Newtonsoft.Json.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Owin.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\System.Web.Helpers.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\System.Web.Mvc.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\System.Web.Optimization.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\System.Web.Razor.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\System.Web.WebPages.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\WebGrease.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\System.Web.Helpers.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\System.Web.Mvc.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\System.Web.Optimization.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\System.Web.Razor.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\System.Web.WebPages.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Newtonsoft.Json.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Antlr3.Runtime.pdb
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\EntityFramework.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\EntityFramework.SqlServer.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.Owin.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.Owin.Security.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\obj\Debug\PzojectClassWordFriday.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\obj\Debug\PzojectClassWordFriday.pdb
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\obj\Debug\PzojectClassWordFriday.Migrations.Initialization.resources
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\obj\Debug\PzojectClassWordFriday.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V2\PzojectClassWordFriday\obj\Debug\PzojectClassWordFriday.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\PzojectClassWordFriday.dll.config
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\PzojectClassWordFriday.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\PzojectClassWordFriday.pdb
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Antlr3.Runtime.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\EntityFramework.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\EntityFramework.SqlServer.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.Owin.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.Owin.Security.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Newtonsoft.Json.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Owin.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\System.Web.Helpers.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\System.Web.Mvc.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\System.Web.Optimization.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\System.Web.Razor.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\System.Web.WebPages.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\WebGrease.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\System.Web.Helpers.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\System.Web.Mvc.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\System.Web.Optimization.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\System.Web.Razor.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\System.Web.WebPages.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Newtonsoft.Json.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Antlr3.Runtime.pdb
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\EntityFramework.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\EntityFramework.SqlServer.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.Owin.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.Owin.Security.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\obj\Debug\PzojectClassWordFriday.Migrations.Initialization.resources
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\obj\Debug\PzojectClassWordFriday.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\obj\Debug\PzojectClassWordFriday.dll
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\obj\Debug\PzojectClassWordFriday.pdb
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\obj\Debug\PzojectClassWordFriday.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\obj\Debug\PzojectClassWordFriday.Migrations.version1.resources
+C:\Users\PC21\Desktop\November Class Minhaz\PzojectClassWordFriday - V3\PzojectClassWordFriday\obj\Debug\PzojectClassWordFriday.Migrations.version2.resources
