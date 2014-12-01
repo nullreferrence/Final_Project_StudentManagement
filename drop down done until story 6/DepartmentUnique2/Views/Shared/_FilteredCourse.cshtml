@@ -1,0 +1,44 @@
+﻿@model IEnumerable<DepartmentUnique2.Models.Course>
+<table>
+    <tr>
+        <th>
+            Dep_Name
+        </th>
+        <th>
+            Code
+        </th>
+        <th>
+            CourseName
+        </th>
+        <th>
+            Credit
+        </th>
+        <th>
+            Semister
+        </th>
+        
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DepartmentId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseCredit)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Semisters.SemisterName)
+            </td>
+
+        </tr>
+    }
+
+</table>

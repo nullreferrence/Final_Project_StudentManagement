@@ -1,0 +1,28 @@
+﻿@model IEnumerable<DepartmentUnique2.Models.Course>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<script type="text/javascript">
+    
+    $(function () {
+        $("#departmentId").change(function () {
+            var id = $("#departmentId").val();
+            $("#section-data").load("Course/FilteredCourse",{depId:id});
+        });
+    });
+</script>
+
+<h2>Index</h2>
+@using (Html.BeginForm())
+{
+    @Html.DropDownList("departmentId", String.Empty)
+}
+<p>@Html.ActionLink("Create New", "Create")</p>
+<div id="section-data">
+    @Html.Partial("~/Views/Shared/_FilteredCourse.cshtml",Model)
+</div>
+
+
+
