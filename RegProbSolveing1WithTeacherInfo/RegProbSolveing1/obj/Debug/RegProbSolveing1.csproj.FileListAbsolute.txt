@@ -1,0 +1,116 @@
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\obj\Debug\RegProbSolveing1.csprojResolveAssemblyReference.cache
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\RegProbSolveing1.dll.config
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\RegProbSolveing1.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\RegProbSolveing1.pdb
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Antlr3.Runtime.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\EntityFramework.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\EntityFramework.SqlServer.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.AspNet.Identity.Core.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.AspNet.Identity.Owin.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Host.SystemWeb.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.Cookies.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.Facebook.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.Google.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.OAuth.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.Twitter.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Web.Infrastructure.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Newtonsoft.Json.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Owin.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\System.Web.Helpers.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\System.Web.Mvc.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\System.Web.Optimization.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\System.Web.Razor.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\System.Web.WebPages.Deployment.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\System.Web.WebPages.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\System.Web.WebPages.Razor.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\WebGrease.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\System.Web.Helpers.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\System.Web.Mvc.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\System.Web.Optimization.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\System.Web.Razor.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\System.Web.WebPages.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\System.Web.WebPages.Deployment.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\System.Web.WebPages.Razor.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Newtonsoft.Json.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Antlr3.Runtime.pdb
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\EntityFramework.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\EntityFramework.SqlServer.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.AspNet.Identity.Core.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.AspNet.Identity.Owin.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Host.SystemWeb.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.Facebook.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.Cookies.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.OAuth.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.Google.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.Twitter.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\obj\Debug\RegProbSolveing1.dll
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\obj\Debug\RegProbSolveing1.pdb
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\obj\Debug\RegProbSolveing1.Migrations.v1.resources
+B:\BASIS\ProjectPracticeMVC\RegProbSolveing1\RegProbSolveing1\obj\Debug\RegProbSolveing1.csproj.GenerateResource.Cache
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\RegProbSolveing1.dll.config
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\RegProbSolveing1.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\RegProbSolveing1.pdb
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Antlr3.Runtime.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\EntityFramework.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\EntityFramework.SqlServer.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.AspNet.Identity.Core.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.AspNet.Identity.Owin.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Host.SystemWeb.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.Cookies.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.Facebook.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.Google.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.OAuth.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.Twitter.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Web.Infrastructure.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Newtonsoft.Json.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Owin.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\System.Web.Helpers.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\System.Web.Mvc.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\System.Web.Optimization.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\System.Web.Razor.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\System.Web.WebPages.Deployment.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\System.Web.WebPages.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\System.Web.WebPages.Razor.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\WebGrease.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\System.Web.Helpers.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\System.Web.Mvc.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\System.Web.Optimization.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\System.Web.Razor.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\System.Web.WebPages.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\System.Web.WebPages.Deployment.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\System.Web.WebPages.Razor.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Newtonsoft.Json.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Antlr3.Runtime.pdb
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\EntityFramework.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\EntityFramework.SqlServer.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.AspNet.Identity.Core.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.AspNet.Identity.Owin.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Host.SystemWeb.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.Facebook.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.Cookies.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.OAuth.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.Google.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.Twitter.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\obj\Debug\RegProbSolveing1.csprojResolveAssemblyReference.cache
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\obj\Debug\RegProbSolveing1.Migrations.v1.resources
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\obj\Debug\RegProbSolveing1.csproj.GenerateResource.Cache
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\obj\Debug\RegProbSolveing1.dll
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\obj\Debug\RegProbSolveing1.pdb
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\obj\Debug\RegProbSolveing1.Migrations.v2.resources
+B:\BASIS\ProjectPracticeMVC\New folder\RegProbSolveing1\RegProbSolveing1\obj\Debug\RegProbSolveing1.Migrations.v3.resources
