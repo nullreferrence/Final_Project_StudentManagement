@@ -1,0 +1,46 @@
+﻿
+@model IEnumerable<RegProbSolveing1.Models.Course>
+
+
+
+<table class="table">
+    <tr>
+        
+        
+        <th>
+            @Html.DisplayNameFor(model => model.CourseCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CourseName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Semester.SemesterName)
+        </th>
+        
+        
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Semester.SemesterName)
+            </td>
+            
+
+            
+        </tr>
+    }
+
+
+</table>

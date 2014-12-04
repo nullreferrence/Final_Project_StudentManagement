@@ -1,0 +1,31 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@model IEnumerable<RegProbSolveing1.Models.Course>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<script type="text/javascript">
+
+    $(function () {
+        $("#departmentId").change(function () {
+            var id = $("#departmentId").val();
+            $("#section-data").load("Course/FilteredCourse", { depId: id });
+        });
+    });
+</script>
+
+<h2>Index</h2>
+@using (Html.BeginForm())
+{
+    @Html.DropDownList("departmentId", String.Empty)
+}
+<div id="section-data">
+    @Html.Partial("~/Views/Shared/_CoursePartial.cshtml", Model)
+</div>
+
+
