@@ -1,0 +1,42 @@
+﻿@model RegProbSolveing1.Models.AllocateClassRoom
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>AllocateClassRoom</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Course.CourseCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Course.CourseCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Days.DaysName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Days.DaysName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Rooms.RoomsName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Rooms.RoomsName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.AllocateClassRoomId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
