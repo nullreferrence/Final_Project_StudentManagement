@@ -1,0 +1,233 @@
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\ProjectTest.dll.config
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\ProjectTest.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\ProjectTest.pdb
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Antlr3.Runtime.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\EntityFramework.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\EntityFramework.SqlServer.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.Owin.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Newtonsoft.Json.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Owin.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\System.Web.Helpers.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\System.Web.Mvc.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\System.Web.Optimization.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\System.Web.Razor.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\System.Web.WebPages.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\WebGrease.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\System.Web.Helpers.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\System.Web.Mvc.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\System.Web.Optimization.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\System.Web.Razor.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\System.Web.WebPages.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Newtonsoft.Json.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Antlr3.Runtime.pdb
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\EntityFramework.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\EntityFramework.SqlServer.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.Owin.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\obj\Debug\ProjectTest.Migrations.InitialCreate.resources
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\obj\Debug\ProjectTest.Migrations.initial.resources
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\obj\Debug\ProjectTest.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\obj\Debug\ProjectTest.dll
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\obj\Debug\ProjectTest.pdb
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\obj\Debug\ProjectTest.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\11_11MinhazClassWork\ProjectTest\ProjectTest\obj\Debug\ProjectTest.Migrations.v1.resources
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\ProjectTest.dll.config
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\ProjectTest.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\ProjectTest.pdb
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Antlr3.Runtime.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\EntityFramework.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\EntityFramework.SqlServer.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.Owin.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Newtonsoft.Json.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Owin.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\System.Web.Helpers.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\System.Web.Mvc.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\System.Web.Optimization.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\System.Web.Razor.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\System.Web.WebPages.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\WebGrease.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\System.Web.Helpers.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\System.Web.Mvc.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\System.Web.Optimization.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\System.Web.Razor.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\System.Web.WebPages.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Newtonsoft.Json.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Antlr3.Runtime.pdb
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\EntityFramework.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\EntityFramework.SqlServer.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.Owin.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\obj\Debug\ProjectTest.dll
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\obj\Debug\ProjectTest.pdb
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\obj\Debug\ProjectTest.csprojResolveAssemblyReference.cache
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\obj\Debug\ProjectTest.Migrations.verson1.resources
+C:\Users\Mohin\Desktop\29.-11 unique check\ProjectTest\ProjectTest\obj\Debug\ProjectTest.csproj.GenerateResource.Cache
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\ProjectTest.dll.config
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\ProjectTest.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\ProjectTest.pdb
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Antlr3.Runtime.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\EntityFramework.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\EntityFramework.SqlServer.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.Owin.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Newtonsoft.Json.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Owin.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\System.Web.Helpers.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\System.Web.Mvc.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\System.Web.Optimization.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\System.Web.Razor.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\System.Web.WebPages.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\WebGrease.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\System.Web.Helpers.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\System.Web.Mvc.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\System.Web.Optimization.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\System.Web.Razor.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\System.Web.WebPages.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Newtonsoft.Json.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Antlr3.Runtime.pdb
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\EntityFramework.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\EntityFramework.SqlServer.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.Owin.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\obj\Debug\ProjectTest.csprojResolveAssemblyReference.cache
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\obj\Debug\ProjectTest.Migrations.verson1.resources
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\obj\Debug\ProjectTest.csproj.GenerateResource.Cache
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\obj\Debug\ProjectTest.dll
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\obj\Debug\ProjectTest.pdb
+C:\Users\Mohin\Desktop\Done 3 story\ProjectTest\ProjectTest\obj\Debug\ProjectTest.Migrations.verson2.resources
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\ProjectTest.dll.config
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\ProjectTest.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\ProjectTest.pdb
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Antlr3.Runtime.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\EntityFramework.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\EntityFramework.SqlServer.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.Owin.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.Owin.Security.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Newtonsoft.Json.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Owin.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\System.Web.Helpers.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\System.Web.Mvc.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\System.Web.Optimization.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\System.Web.Razor.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\System.Web.WebPages.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\WebGrease.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\System.Web.Helpers.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\System.Web.Mvc.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\System.Web.Optimization.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\System.Web.Razor.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\System.Web.WebPages.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Newtonsoft.Json.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Antlr3.Runtime.pdb
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\EntityFramework.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\EntityFramework.SqlServer.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.Owin.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.Owin.Security.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mohin\Desktop\Registion\ProjectTest\obj\Debug\ProjectTest.csprojResolveAssemblyReference.cache
+C:\Users\Mohin\Desktop\Registion\ProjectTest\obj\Debug\ProjectTest.Migrations.verson1.resources
+C:\Users\Mohin\Desktop\Registion\ProjectTest\obj\Debug\ProjectTest.Migrations.verson2.resources
+C:\Users\Mohin\Desktop\Registion\ProjectTest\obj\Debug\ProjectTest.csproj.GenerateResource.Cache
+C:\Users\Mohin\Desktop\Registion\ProjectTest\obj\Debug\ProjectTest.dll
+C:\Users\Mohin\Desktop\Registion\ProjectTest\obj\Debug\ProjectTest.pdb
+C:\Users\Mohin\Desktop\Registion\ProjectTest\obj\Debug\ProjectTest.Migrations.verson3.resources
