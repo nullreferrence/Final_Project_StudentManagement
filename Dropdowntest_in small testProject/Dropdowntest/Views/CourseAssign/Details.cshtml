@@ -1,0 +1,42 @@
+﻿@model Dropdowntest.Models.CourseAssign
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>CourseAssign</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Courses.CourseCredit)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Courses.CourseCredit)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Departments.DepartmentCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Departments.DepartmentCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Teachers.TeacherName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Teachers.TeacherName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CourseAssignID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

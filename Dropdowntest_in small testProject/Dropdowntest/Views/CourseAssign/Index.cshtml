@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Dropdowntest.Models.CourseAssign>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Courses.CourseCredit)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Departments.DepartmentCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Teachers.TeacherName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Courses.CourseCredit)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Departments.DepartmentName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Teachers.TeacherName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.CourseAssignID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.CourseAssignID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.CourseAssignID })
+        </td>
+    </tr>
+}
+
+</table>

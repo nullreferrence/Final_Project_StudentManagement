@@ -1,0 +1,115 @@
+D:\Dropdowntest\Dropdowntest\bin\Dropdowntest.dll.config
+D:\Dropdowntest\Dropdowntest\bin\Dropdowntest.dll
+D:\Dropdowntest\Dropdowntest\bin\Dropdowntest.pdb
+D:\Dropdowntest\Dropdowntest\bin\Antlr3.Runtime.dll
+D:\Dropdowntest\Dropdowntest\bin\EntityFramework.dll
+D:\Dropdowntest\Dropdowntest\bin\EntityFramework.SqlServer.dll
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.Owin.dll
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.Owin.Security.dll
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.Owin.Security.Google.dll
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.Web.Infrastructure.dll
+D:\Dropdowntest\Dropdowntest\bin\Newtonsoft.Json.dll
+D:\Dropdowntest\Dropdowntest\bin\Owin.dll
+D:\Dropdowntest\Dropdowntest\bin\System.Web.Helpers.dll
+D:\Dropdowntest\Dropdowntest\bin\System.Web.Mvc.dll
+D:\Dropdowntest\Dropdowntest\bin\System.Web.Optimization.dll
+D:\Dropdowntest\Dropdowntest\bin\System.Web.Razor.dll
+D:\Dropdowntest\Dropdowntest\bin\System.Web.WebPages.Deployment.dll
+D:\Dropdowntest\Dropdowntest\bin\System.Web.WebPages.dll
+D:\Dropdowntest\Dropdowntest\bin\System.Web.WebPages.Razor.dll
+D:\Dropdowntest\Dropdowntest\bin\WebGrease.dll
+D:\Dropdowntest\Dropdowntest\bin\EntityFramework.xml
+D:\Dropdowntest\Dropdowntest\bin\EntityFramework.SqlServer.xml
+D:\Dropdowntest\Dropdowntest\bin\System.Web.Helpers.xml
+D:\Dropdowntest\Dropdowntest\bin\System.Web.Mvc.xml
+D:\Dropdowntest\Dropdowntest\bin\System.Web.Optimization.xml
+D:\Dropdowntest\Dropdowntest\bin\System.Web.Razor.xml
+D:\Dropdowntest\Dropdowntest\bin\System.Web.WebPages.xml
+D:\Dropdowntest\Dropdowntest\bin\System.Web.WebPages.Deployment.xml
+D:\Dropdowntest\Dropdowntest\bin\System.Web.WebPages.Razor.xml
+D:\Dropdowntest\Dropdowntest\bin\Newtonsoft.Json.xml
+D:\Dropdowntest\Dropdowntest\bin\Antlr3.Runtime.pdb
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.Owin.xml
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.Owin.Security.xml
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.Owin.Security.Google.xml
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Dropdowntest\Dropdowntest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Dropdowntest\Dropdowntest\obj\Debug\Dropdowntest.Migrations.v1.resources
+D:\Dropdowntest\Dropdowntest\obj\Debug\Dropdowntest.csproj.GenerateResource.Cache
+D:\Dropdowntest\Dropdowntest\obj\Debug\Dropdowntest.dll
+D:\Dropdowntest\Dropdowntest\obj\Debug\Dropdowntest.pdb
+D:\Dropdowntest\Dropdowntest\obj\Debug\Dropdowntest.Migrations.v2.resources
+D:\Dropdowntest\Dropdowntest\obj\Debug\Dropdowntest.csprojResolveAssemblyReference.cache
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Dropdowntest.dll.config
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Dropdowntest.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Dropdowntest.pdb
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Antlr3.Runtime.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\EntityFramework.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\EntityFramework.SqlServer.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.Owin.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.Owin.Security.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.Owin.Security.Google.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.Web.Infrastructure.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Newtonsoft.Json.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Owin.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\System.Web.Helpers.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\System.Web.Mvc.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\System.Web.Optimization.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\System.Web.Razor.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\System.Web.WebPages.Deployment.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\System.Web.WebPages.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\System.Web.WebPages.Razor.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\WebGrease.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\EntityFramework.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\EntityFramework.SqlServer.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\System.Web.Helpers.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\System.Web.Mvc.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\System.Web.Optimization.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\System.Web.Razor.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\System.Web.WebPages.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\System.Web.WebPages.Deployment.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\System.Web.WebPages.Razor.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Newtonsoft.Json.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Antlr3.Runtime.pdb
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.Owin.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.Owin.Security.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.Owin.Security.Google.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Dropdowntest_in small testProject\Dropdowntest\obj\Debug\Dropdowntest.Migrations.v1.resources
+D:\Dropdowntest_in small testProject\Dropdowntest\obj\Debug\Dropdowntest.Migrations.v2.resources
+D:\Dropdowntest_in small testProject\Dropdowntest\obj\Debug\Dropdowntest.csproj.GenerateResource.Cache
+D:\Dropdowntest_in small testProject\Dropdowntest\obj\Debug\Dropdowntest.dll
+D:\Dropdowntest_in small testProject\Dropdowntest\obj\Debug\Dropdowntest.pdb

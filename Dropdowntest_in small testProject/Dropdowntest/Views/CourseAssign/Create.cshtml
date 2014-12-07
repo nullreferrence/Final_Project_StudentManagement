@@ -1,0 +1,108 @@
+﻿@model Dropdowntest.Models.CourseAssign
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>CourseAssign</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DepartmentID, "DepartmentID", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("DepartmentID", "-Select Department-")
+                @Html.ValidationMessageFor(model => model.DepartmentID)
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="departmentName" class="col-sm-2 control-label">DepartmentName</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" id="departmentName" name="departmentName" /></div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CourseID, "CourseID", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("CourseID", "-Select Course-")
+                @*@Html.ValidationMessageFor(model => model.CourseID)*@
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TeacherID, "TeacherID", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("TeacherID", "-select teacher-")
+                @Html.ValidationMessageFor(model => model.TeacherID)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script>
+        $(document).ready(function() {
+            $("#DepartmentID").change(function() {
+                var optionSelected = $(this).find("option:selected");
+                var courseId = optionSelected.val();
+                var mydata = { depID: courseId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetCourseInfo", "CourseAssign")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(mydata),
+                    dataType: "json",
+                    success: function(data) {
+
+                        $("#departmentName").val(data.DepartmentName);
+                    },
+                });
+            });
+        });
+
+        $("#DepartmentID").change(function () {
+            var optionSelected = $(this).find("option:selected");
+            var courseId = optionSelected.val();
+            var mydata = { depID: courseId };
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("GetCoursebyDepartmentId", "CourseAssign")',
+                contentType: "application/json; charset=utf-8",
+                data: JSON.stringify(mydata),
+                dataType: "json",
+                success: function (data) {
+                    $("#CourseID").empty();
+                    $.each(data, function(key, value) {
+
+                        $("#CourseID").append('<option value=' + value.CourseID + '>' + value.CourseCredit + '</option>');
+                    });
+                
+                },
+            });
+        });
+
+
+
+
+
+    </script>
+}
